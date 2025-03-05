@@ -1,2 +1,2 @@
-Post https://zhqhplizeqxlduqsyayh.supabase.co/rest/v1/Student?id=eq.1
+Get https://zhqhplizeqxlduqsyayh.supabase.co/rest/v1/estimation?name=gt.3
 Сухомлин и Урсаев
